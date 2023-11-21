@@ -1,1 +1,1 @@
-# derivativos
+This is a project I created to to develop my knoledge on stock options and derivatives in general. Here I intend to explain concepts going from simple things (like whats is a put and a call) to complex subjects such as black-scholes, the greek letters and models like delta-hedge.
